@@ -1,0 +1,14 @@
+LIBRARY libtui.dll
+
+EXPORTS
+_Java_Tui_clrscr@8
+_Java_Tui_getHeight@8
+_Java_Tui_getWidth@8
+_Java_Tui_getch@8
+_Java_Tui_gotoxy@16
+_Java_Tui_hideCursor@8
+_Java_Tui_kbhit@8
+_Java_Tui_setCursorSize@12
+_Java_Tui_setTextAttribute@12
+_Java_Tui_setWindow@28
+_Java_Tui_showCursor@8
