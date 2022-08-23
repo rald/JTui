@@ -1,6 +1,9 @@
 # JTui
 
-Java Text User Interface using JNI
+## Tiny C Comppiler 
+## Java 1.1.8
+
+### Java Text User Interface using JNI
 
 void clrscr();
 void gotoxy(int x,int y);
