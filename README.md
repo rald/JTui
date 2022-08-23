@@ -1,9 +1,9 @@
-# JTui
+# JTui - Java Text User Interface using JNI
 
-## Tiny C Compiler 
-## Java 1.1.8
+Tiny C Compiler 
+Java 1.1.8
 
-### Java Text User Interface using JNI
+```Java
 
 void clrscr();
 
@@ -27,3 +27,4 @@ int getHeight();
 
 void setWindow(int left,int top,int right,int bottom,boolean absolute);
 
+```
