@@ -1,7 +1,6 @@
 # JTui - Java Text User Interface using JNI
 
-Tiny C Compiler 
-Java 1.1.8
+With Tiny C Compiler and Java 1.1.8
 
 ```Java
 
